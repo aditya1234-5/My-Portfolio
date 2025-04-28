@@ -1,4 +1,4 @@
-// Typing Animation
+// Typing Animation for About Me Section
 var typed = new Typed("#typed", {
   strings: [
     "Data Analyst",
@@ -11,3 +11,4 @@ var typed = new Typed("#typed", {
   backSpeed: 25,
   loop: true
 });
+
